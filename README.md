@@ -24,6 +24,8 @@ screenshots on spanish
 ![image](https://user-images.githubusercontent.com/22879539/231023700-78efc24e-1887-4a1a-b028-5beeec8d173b.png)
 ![image](https://user-images.githubusercontent.com/22879539/231023736-b75471d6-f7d8-45a2-b388-696d1826b49e.png)
 
+my youtube chanel about linux gaming on spanish 
+https://www.youtube.com/@Tridoxx
 
 logs maybe someone can help or something:
 ```
