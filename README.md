@@ -1,6 +1,8 @@
 # lol-on-linux-2023
 i run lol for 30 mins, and close the game but try, the game log show but keep running 
  believe is a problem with recent verision of dxvk before change this version to the last version, the game only work 3 mins
+ 
+some notes that may not be important, the game runs in windowed mode
 ```
 0350:fixme:heap:RtlSetHeapInformation HEAP_INFORMATION_CLASS 1 not implemented!
 0350:fixme:ntdll:EtwEventSetInformation (deadbeef, 2, 27D50028, 16) stub
