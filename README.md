@@ -13,11 +13,11 @@ wine version used:  https://github.com/polkaulfield/lol-for-linux-installer/rele
 
 go to lutris and add this config: 
 
-1)configuration> runner options> wine version wine-lol-stanging-8.5-1
-2)configuration> runner options> enable dxvk/vkd3d : true
-3) configuration> runner options> DXKV version : v1.7.1L
-4) configuration> runner options> enable Esync
-5) configuration> system options> enviroment variable: WINEDEGUB  trace+seh
+1. configuration> runner options> wine version wine-lol-stanging-8.5-1
+2. configuration> runner options> enable dxvk/vkd3d : true
+3. configuration> runner options> DXKV version : v1.7.1L
+4. configuration> runner options> enable Esync
+5. configuration> system options> enviroment variable: WINEDEGUB  trace+seh
 
 screenshots on spanish
 
